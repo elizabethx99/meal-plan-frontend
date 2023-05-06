@@ -1,5 +1,5 @@
 body {
-  background: url('https://images.unsplash.com/photo-1543353071-873f17a7a088?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGhlYWx0aHklMjBmb29kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60');
+  background: url('https://images.unsplash.com/photo-1569420077790-afb136b3bb8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1778&q=80');
   background-size: cover;
   min-height: 100vh;
   display: grid;
@@ -16,7 +16,7 @@ body {
   border: none;
   color: white;
   font-size: 20px;
-  background: #313133;
+  background: #a8a8a8;
   padding: 20px;
   font-family: 'Gloria Hallelujah', cursive;
   margin-bottom: 20px;
@@ -24,7 +24,7 @@ body {
   
   button {
   padding: 20px 50px 20px 70px;
-  background-color: #024d3d;
+  background-color: #61647e;
   color: white;
   font-size: 20px;
   cursor: pointer;
@@ -32,10 +32,11 @@ body {
   
   p {
   max-width: 100%;
-  background: beige;
+  background: rgb(179, 187, 255);
   margin-top: 20px;
+  padding:10px;
   font-family: 'Gloria Hallelujah', cursive;
   width: 600px;
   font-size: 20px;
-  
+  border-radius: 20px;
   }
